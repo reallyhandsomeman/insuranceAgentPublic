@@ -173,7 +173,7 @@ logging:
 
 # 📚 RAG（检索增强）初始化指南
 
-## ① 放置比赛所提供的 PDF 文档数据集
+## ① 放置 PDF 文档数据集
 
 ```
 /data/documents
